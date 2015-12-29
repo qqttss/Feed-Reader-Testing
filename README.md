@@ -1,11 +1,10 @@
 # Project 6 -- Feed Reader Testing
 
+In this project, a web-based application that reads RSS feeds is given. A number of tests were written against the application using Jasmine. These will test the underlying business logic of the application as well as the event handling and DOM manipulation.
+
 This project is hosted at: http://qqttss.github.io/Feed-Reader-Testing/
 
-In this project, a web-based application that reads RSS feeds is given.
-A number of tests are written against the application using Jasmine. These will test the underlying business logic of the application as well as the event handling and DOM manipulation.
-
-How will I complete this project?
+How to complete this project?
 
 1. Write a test that loops through each feed in the allFeeds object and ensures it has a URL defined and that the URL is not empty.
 
