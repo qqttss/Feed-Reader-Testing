@@ -4,7 +4,7 @@ This project is hosted at: http://qqttss.github.io/Feed-Reader-Testing/
 
 In this project, a web-based application that reads RSS feeds is given. A number of tests are written against the application using Jasmine. These will test the underlying business logic of the application as well as the event handling and DOM manipulation.
 
-Tests were added in jasmine/spec/feedreader.js. The following tests are included:
+Tests are added in jasmine/spec/feedreader.js. The following tests are included:
 
 1. RSS feeds are defined and not empty.
 
